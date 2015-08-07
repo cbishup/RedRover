@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RedRover</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="none_paired">None Paired</string>
+    <string name="choose_device">Choose Your Vehicle:</string>
+    <string name="tilt_drive">Tilt to Drive</string>
+
+</resources>
